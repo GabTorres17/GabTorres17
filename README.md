@@ -1,72 +1,38 @@
-## Hi there 👋
+# Gabriel Torres - Fullstack Developer
 
-# Gabriel Torres
-
-## Sobre mí
-
-¡Hola! Soy Gabriel Torres, un Fullstack Developer con un título en Medicina Humana. Desde pequeño, la tecnología siempre ha sido un área de interés creciente para mí, y sé que esta avanza a un ritmo inigualable. Estoy comprometido a combinar mi formación médica con habilidades técnicas para innovar en el campo de la salud digital algún día.
-
-Soy consciente de que la paciencia es la madre de todas las ciencias, por lo que estoy dispuesto a subir peldaño por peldaño, comenzando desde lo más básico para conseguir aquellos logros que requieren tiempo y esfuerzo del que los sueña. Gracias al camino que tomé, la persona que veo frente al espejo hoy en día es una con experiencia en trabajo en equipo, trabajo bajo presión y alta disciplina para el estudio.
-
-Enfocado principalmente en desarrollo frontend, me considero una persona motivada, adecuada para trabajar en equipo y muy interesada en aprender nuevas habilidades y conseguir nuevas experiencias en el campo de la tecnología.
+Hola! Bienvenido a mi Github 🤖
 
 ## Habilidades Técnicas
 
-### Lenguajes de Programación
-![JavaScript](./images/javascript.png)
-![HTML](./images/html.png)
-![CSS](./images/css.png)
+### Lenguajes de Programación y Herramientas
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="48" height="48"/>
+</p>
 
 ### Frontend
-![React](./images/react.png)
-![Redux](./images/redux.png)
-![CSS Modules](./images/css-modules.png)
+<p>
+<img src="https://github.com/GabTorres17/GabTorres17/assets/142117986/121ca84e-5637-4620-81a6-14579901ebfb" alt="React" width="48" height="48"/>
+<img src="https://github.com/GabTorres17/GabTorres17/assets/142117986/2523c10d-1d28-4e81-ab2b-1563b52235c0" alt="Redux" width="48" height="48"/>
+<img src="https://github.com/GabTorres17/GabTorres17/assets/142117986/f78d5a3b-8736-47a7-96b1-b9c82283a694" alt="CSS Modules" width="48" height="48"/>
+<img src="https://github.com/GabTorres17/GabTorres17/assets/142117986/74fcdeea-8cb1-4c92-8b58-d8c010eca063" alt="Tailwind" width="48" height="48"/>
+<img src="https://github.com/GabTorres17/GabTorres17/assets/142117986/2ad0d56e-63cc-4313-bcf5-cc0fd619a18b" alt="Next" width="48" height="48"/>
+</p>
 
 ### Backend
-![Node.js](./images/nodejs.png)
-![Express](./images/express.png)
-
-### Bases de Datos
-![PostgreSQL](./images/postgresql.png)
-![Sequelize](./images/sequelize.png)
-
-### Control de Versiones
-![Git](./images/git.png)
-
-### Otros
-![Agile](./images/agile.png)
-![Data Structures](./images/data-structures.png)
-![Algorithms](./images/algorithms.png)
-![CSS Frameworks](./images/css-frameworks.png)
-
-## Experiencia Profesional
-
-He trabajado en diversos proyectos que me han permitido desarrollar habilidades tanto en frontend como en backend. Aquí algunos de ellos:
-
-- Desarrollo de aplicaciones web utilizando React.js y Redux para una mejor gestión del estado.
-- Implementación de APIs RESTful con Node.js y Express.js.
-- Gestión de bases de datos con PostgreSQL y Sequelize, incluyendo la creación de modelos y relaciones complejas.
-
-## Educación
-
-- **Medicina Humana**
-- **Cursos y Certificaciones**:
-  - [Inserte aquí los cursos relevantes que hayas tomado]
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48"/>
+</p>
 
 ## Idiomas
 
 - **Inglés**: Avanzado (C1)
 - **Portugués**: Intermedio (B2)
 
-## Proyectos Destacados
 
-1. **Proyecto 1**: Descripción breve del proyecto.
-2. **Proyecto 2**: Descripción breve del proyecto.
-
-## Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-torres/)
-- [Correo Electrónico](mailto:gabriel.torres@example.com)
-
-¡Gracias por visitar mi perfil de GitHub! Estoy siempre abierto a colaborar en nuevos proyectos y aprender nuevas tecnologías. No dudes en contactarme si tienes alguna pregunta o propuesta.
+Qué gusto verte en mi perfil de GitHub! Estoy siempre abierto a colaborar en nuevos proyectos y aprender nuevas tecnologías. No dudes en contactarme si tienes alguna pregunta o propuesta.
 
