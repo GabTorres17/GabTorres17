@@ -1,4 +1,4 @@
-# Gabriel Torres - Fullstack Developer
+# Fullstack Developer | Javascript | React.js | Redux | Node.js | Express | PostgreSQL
 
 Hola! Bienvenido a mi Github 🤖
 
