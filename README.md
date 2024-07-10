@@ -34,5 +34,9 @@ Hola! Bienvenido a mi Github 🤖
 - **Portugués**: Intermedio (B2)
 
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabtorres17&show_icons=true&rank_icon=github&theme=transparent&card_width=500px)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabtorres17&layout=compact&theme=transparent&card_width=500px)
+
+
 Qué gusto verte en mi perfil de GitHub! Estoy siempre abierto a colaborar en nuevos proyectos y aprender nuevas tecnologías. No dudes en contactarme si tienes alguna pregunta o propuesta.
 
