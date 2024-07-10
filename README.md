@@ -1,10 +1,12 @@
-## Hi there 👋
+## Español 
+
+# Hola! 👋
 
 # Gabriel Torres
 
 ## Sobre mí
 
-¡Hola! Soy Gabriel Torres, un Fullstack Developer con un título en Medicina Humana. Desde pequeño, la tecnología siempre ha sido un área de interés creciente para mí, y sé que esta avanza a un ritmo inigualable. Estoy comprometido a combinar mi formación médica con habilidades técnicas para innovar en el campo de la salud digital algún día.
+Soy Gabriel Torres, un Fullstack Developer con un título en Medicina Humana. Desde pequeño, la tecnología siempre ha sido un área de interés creciente para mí, y sé que esta avanza a un ritmo inigualable. Estoy comprometido a combinar mi formación médica con habilidades técnicas para innovar en el campo de la salud digital algún día.
 
 Soy consciente de que la paciencia es la madre de todas las ciencias, por lo que estoy dispuesto a subir peldaño por peldaño, comenzando desde lo más básico para conseguir aquellos logros que requieren tiempo y esfuerzo del que los sueña. Gracias al camino que tomé, la persona que veo frente al espejo hoy en día es una con experiencia en trabajo en equipo, trabajo bajo presión y alta disciplina para el estudio.
 
@@ -18,7 +20,7 @@ Enfocado principalmente en desarrollo frontend, me considero una persona motivad
 ![CSS](./images/css.png)
 
 ### Frontend
-![React](./images/react.png)
+![React]([./images/react.png](https://www.pngwing.com/en/free-png-azbzv))
 ![Redux](./images/redux.png)
 ![CSS Modules](./images/css-modules.png)
 
